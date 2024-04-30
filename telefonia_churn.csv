@@ -1,0 +1,6 @@
+ID Cliente,Nombre,Edad,Género,País,Fecha de Registro,Plan de Servicio,Duración de Llamadas,Consumo de Datos,Churn
+1,Juan Pérez,32,Masculino,Argentina,2023-01-01,Básico,100,10,No
+2,Maria Gómez,28,Femenino,Brasil,2023-02-01,Estándar,150,15,No
+3,Pedro Silva,45,Masculino,Chile,2023-03-01,Premium,200,20,Sí
+4,Ana López,30,Femenino,Colombia,2023-04-01,Básico,80,8,No
+5,Carlos Martínez,25,Masculino,Ecuador,2023-05-01,Estándar,120,12,No
